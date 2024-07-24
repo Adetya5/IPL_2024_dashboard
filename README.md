@@ -19,3 +19,4 @@ API LINK : https://rapidapi.com/cricketapilive/api/cricbuzz-cricket/playground/a
 
 ![image](https://github.com/user-attachments/assets/ac145939-1a76-4e29-b6d5-31c422703e7b)
 
+![image](https://github.com/user-attachments/assets/7baa71b9-8af3-42db-abb1-63deec9f53be)
