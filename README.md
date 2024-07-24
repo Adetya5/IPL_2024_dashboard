@@ -14,4 +14,5 @@ Creating DAX new measures to obtain Strike Rate, Status, Runs Per Ball, fours, s
 Creating Tooltips for Batsman and Bowler data
 
 Merged different tables to get Team, Batsman and Bowler Logo
+
 API LINK : https://rapidapi.com/cricketapilive/api/cricbuzz-cricket/playground/apiendpoint_38fe7ec9-e3ba-4d9a-b938-c6c5836c36ad
